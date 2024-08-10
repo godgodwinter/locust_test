@@ -1,2 +1,8 @@
-# locust_test
-performan test
+cara menjalankan 
+
+locust -f locustfile.py
+
+atau
+
+
+locust
